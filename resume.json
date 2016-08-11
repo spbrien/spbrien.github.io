@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Steven Brien",
+    "label": "Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJUAAAAJGZhZmZhYzFiLTBkNjEtNDhlZC05ZTgxLTRlNjRiNmQwMTUyYg.jpg",
+    "email": "spbrien@gmail.com",
+    "phone": "(314) 517-7358",
+    "website": "http://spbrien.github.io",
+    "summary": "I'm a developer interested in creating intelligent and innovative applications for the internet. I learn complex subject matter very quickly, like to solve problems that require a wide range of skills and expertise, and enjoy designing and building systems from the ground up.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "New York, NY",
+      "countryCode": "US",
+      "region": "NY"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "spbrien",
+        "url": "https://github.com/spbrien"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Steven Brien",
+        "url": "https://www.linkedin.com/in/steven-brien-803173b7"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Response Marketing",
+      "position": "Senior Developer",
+      "website": "http://response.agency",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-08",
+      "summary": "At Response Marketing, I lead the development of a custom platform for creating and maintaining complex marketing websites. Using the platform, I developed applications for numerous clients including Guess Watches, Intel Security / McAffee, Avi Networking, and REAN Cloud",
+      "highlights": [
+        "Built a JSON API-driven platform for creating, deploying, and maintaining highly customizable marketing websites quickly and easily",
+        "Developed solutions for automating data collection and analysis for social media campaigns",
+        "Avi Networks Site | http://avinetworks.com",
+        "Intel Security 101 Application | http://securityterms.intelsecurity.com"
+      ]
+    },
+    {
+      "company": "Atomicdust",
+      "position": "Web Developer",
+      "website": "http://atomicdust.com",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "summary": "At Atomicdust I developed websites, single page web applications, and worked on server-side architecture to feed iOS apps. I also built and maintained a deployment framework for Atomicdust Wordpress sites.",
+      "highlights": [
+        "Built and maintained DevOps framework for Atomicdust wordpress sites.",
+        "Cortona Website | http://cortonaforestpark.com"
+      ]
+    },
+    {
+      "company": "All Along Press",
+      "position": "Co-founder, Designer, Printmaker",
+      "website": "http://allalongpress.com",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
+      "summary": "All Along Press was a letterpress and screen-printing shop founded by Elysia Mann and I in St. Louis, MO. I designed and printed work for marketing agencies, design-conscious companies and individuals. I handled the shop's online presence: building and maintaining the website, e-commerce system, web-based project management system, server management etc.",
+      "highlights": [
+        "Worked with dozens of marketing and design agencies to produce printed materials for national brands such as Woodford Reserve, Adobe, and Gatorade.",
+        "Managed all online design and marketing for the shop."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Washington University in St. Louis",
+      "area": "Printmaking",
+      "studyType": "Bachelor",
+      "startDate": "2003-08-01",
+      "endDate": "2007-05-30",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "Less",
+        "Zurb Foundation",
+        "Twitter Bootstrap",
+        "Bourbon.io",
+        "Javascript",
+        "Python",
+        "PHP",
+        "Node.js",
+        "Angular",
+        "Vue.js",
+        "React",
+        "jQuery",
+        "Backbone.js",
+        "Flask (Python)",
+        "Laravel (PHP)",
+        "Express (JS)",
+        "Grunt/Gulp"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "Bash / Shell Scripting",
+        "Fabric",
+        "VirtualBox",
+        "Vagrant",
+        "Linux",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Design / Prototyping",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe XD",
+        "Sketch",
+        "InVision"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Design / Art",
+      "keywords": [
+        "Photography",
+        "Screen Printing / Letterpress"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Karissa Tuccio",
+      "reference": "Digital Producer | Response Marketing"
+    },
+    {
+      "name": "Brendan Bowidas",
+      "reference": "Developer | Response Marketing"
+    },
+    {
+      "name": "Ashley Marshall",
+      "reference": "Designer | Response Marketing"
+    }
+  ]
+}
