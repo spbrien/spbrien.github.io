@@ -43,6 +43,18 @@
       ]
     },
     {
+      "company": "Partisan Records",
+      "position": "Developer (Freelance)",
+      "website": "",
+      "startDate": "2016-02-01",
+      "endDate": "2016-04-01",
+      "summary": "For Partisan Records, I developed interactive applications and websites to advertise record releases.",
+      "highlights": [
+        "Built a custom javascript application that allowed users to remix audio, video, and animated graphics from Sylvan Esso's album HSKT. Users could record and share their creations on social media.",
+        "Developed a javascript application that would gather instagram videos, manipulate them and combine them with cover artwork for Heartless Bastards's release 'Restless Ones' in order to promote the record."
+      ]
+    },
+    {
       "company": "Atomicdust",
       "position": "Web Developer",
       "website": "http://atomicdust.com",
