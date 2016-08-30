@@ -37,7 +37,7 @@
       "summary": "At Response Marketing, I led the development of a custom platform for creating and maintaining complex marketing websites. Using the platform, I developed applications for numerous clients including Guess Watches, Intel Security / McAfee, Avi Networking, and REAN Cloud",
       "highlights": [
         "Built a JSON API-driven platform for creating, deploying, and maintaining highly customizable marketing websites quickly and easily",
-        "Developed solutions for automating data collection and analysis for social media campaigns",
+        "Developed solutions for automating data collection and analysis for social media campaigns using Python (Pandas, NLTK, Matplotlib)",
         "Avi Networks Site | http://avinetworks.com",
         "Intel Security 101 Application | http://securityterms.intelsecurity.com"
       ],
