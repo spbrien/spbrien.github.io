@@ -118,11 +118,12 @@
         "React",
         "jQuery",
         "Backbone.js",
-        "Flask (Python)",
-        "Laravel (PHP)",
+        "Flask (Python MVC Framework)",
+        "Laravel (PHP MVC Framework)",
         "Express (JS)",
         "Wordpress",
-        "Grunt/Gulp"
+        "Grunt/Gulp",
+        "Webpack/Browserify"
       ]
     },
     {
