@@ -48,8 +48,10 @@
         "Flask (Python MVC Framework)",
         "VueJS (Frontend JS Framwork)",
         "Express (JS Framework)",
+        "Mocha/Karma, py.test",
         "HTML, Css, Sass",
         "Nginx, Apache",
+        "Vim, Atom, Sublime",
         "Photoshop, Illustrator, AdobeXD, Sketch, Invision"
       ]
     },
@@ -72,6 +74,7 @@
         "Angular (Frontend JS Framwork)",
         "HTML, Css, Sass",
         "Nginx, Apache",
+        "Vim, Atom, Sublime",
         "Photoshop, Illustrator"
       ]
     },
@@ -93,6 +96,7 @@
         "jQuery, AngularJS",
         "HTML, Css, Sass",
         "Apache",
+        "Coda, Sublime",
         "Photoshop, Illustrator"
       ]
     },
@@ -163,6 +167,16 @@
         "Vagrant",
         "Linux",
         "AWS"
+      ]
+    },
+    {
+      "name": "Code Editors/IDEs",
+      "level": "",
+      "keywords": [
+        "Vim",
+        "XCode",
+        "Sublime Text",
+        "Atom"
       ]
     },
     {
