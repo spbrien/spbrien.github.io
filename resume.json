@@ -40,6 +40,17 @@
         "Developed solutions for automating data collection and analysis for social media campaigns",
         "Avi Networks Site | http://avinetworks.com",
         "Intel Security 101 Application | http://securityterms.intelsecurity.com"
+      ],
+      "experience": [
+        "Git / Version Control",
+        "MySQL, PostgreSQL, MongoDB",
+        "Python, PHP, Javascript",
+        "Flask (Python MVC Framework)",
+        "VueJS (Frontend JS Framwork)",
+        "Express (JS Framework)",
+        "HTML, Css, Sass",
+        "Nginx, Apache",
+        "Photoshop, Illustrator, AdobeXD, Sketch, Invision"
       ]
     },
     {
@@ -52,6 +63,16 @@
       "highlights": [
         "Built a custom javascript application that allowed users to remix audio, video, and animated graphics from Sylvan Esso's album 'HSKT'. Users could record and share their creations on social media.",
         "Developed a javascript application that would gather instagram videos with a specific hashtag, manipulate them, and combine them with cover artwork for Heartless Bastards's release 'Restless Ones' in a digital collage/double exposure effect."
+      ],
+      "experience": [
+        "Git / Version Control",
+        "MySQL",
+        "Python, Javascript",
+        "Flask (Python MVC Framework)",
+        "Angular (Frontend JS Framwork)",
+        "HTML, Css, Sass",
+        "Nginx, Apache",
+        "Photoshop, Illustrator"
       ]
     },
     {
@@ -64,6 +85,15 @@
       "highlights": [
         "Built and maintained DevOps framework for Atomicdust wordpress sites.",
         "Cortona Website | http://cortonaforestpark.com"
+      ],
+      "experience": [
+        "MySQL",
+        "PHP, Javascript",
+        "Wordpress",
+        "jQuery, AngularJS",
+        "HTML, Css, Sass",
+        "Apache",
+        "Photoshop, Illustrator"
       ]
     },
     {
@@ -76,6 +106,15 @@
       "highlights": [
         "Worked with dozens of marketing and design agencies to produce printed materials for national brands such as Woodford Reserve, Adobe, and Gatorade.",
         "Managed all online design and marketing for the shop."
+      ],
+      "experience": [
+        "MySQL",
+        "PHP, Javascript",
+        "Wordpress",
+        "jQuery",
+        "HTML, Css",
+        "Apache",
+        "Photoshop, Illustrator, InDesign"
       ]
     }
   ],
@@ -102,28 +141,17 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Sass",
-        "Less",
-        "Zurb Foundation",
-        "Twitter Bootstrap",
-        "Bourbon.io",
-        "Javascript",
-        "Python",
-        "PHP",
+        "MySQL, PostgreSQL, MongoDB",
+        "Python, PHP, Javascript",
+        "HTML, CSS, Sass, Less",
+        "Zurb Foundation, Twitter Bootstrap, Bourbon.io",
+        "Vue.js, AngularJS, jBackbone.js, Query",
         "Node.js",
-        "Angular",
-        "Vue.js",
-        "React",
-        "jQuery",
-        "Backbone.js",
         "Flask (Python MVC Framework)",
         "Laravel (PHP MVC Framework)",
         "Express (JS)",
         "Wordpress",
-        "Grunt/Gulp",
-        "Webpack/Browserify"
+        "Grunt/Gulp, Webpack/Browserify"
       ]
     },
     {
