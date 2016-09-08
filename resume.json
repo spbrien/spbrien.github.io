@@ -2,7 +2,6 @@
   "basics": {
     "name": "Steven Brien",
     "label": "Developer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJUAAAAJGZhZmZhYzFiLTBkNjEtNDhlZC05ZTgxLTRlNjRiNmQwMTUyYg.jpg",
     "email": "spbrien@gmail.com",
     "phone": "(314) 517-7358",
     "website": "http://spbrien.github.io",
@@ -209,15 +208,15 @@
   "references": [
     {
       "name": "Karissa Tuccio",
-      "reference": "Digital Producer | Response Marketing"
-    },
-    {
-      "name": "Brendan Bowidas",
-      "reference": "Developer | Response Marketing"
+      "reference": "Digital Producer | Response Marketing | Karissa.bianco@gmail.com"
     },
     {
       "name": "Ashley Marshall",
-      "reference": "Designer | Response Marketing"
+      "reference": "Designer | Response Marketing | hello@ashleymarydesigns.com"
+    },
+    {
+      "name": "Kirsten O'Loughlin",
+      "reference": "Designer | kirsten@sensurastudio.com"
     }
   ]
 }
