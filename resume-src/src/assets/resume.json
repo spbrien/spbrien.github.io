@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Steven Brien",
-    "label": "Web Developer",
+    "label": "Web Developer / Architect",
     "email": "spbrien@gmail.com",
     "phone": "(314) 517-7358",
     "website": "http://spbrien.github.io",
@@ -28,12 +28,36 @@
   },
   "work": [
     {
+      "company": "HLK",
+      "position": "Technology Lead / Developer",
+      "website": "http://hlkagency.com",
+      "startDate": "2016-06-01",
+      "endDate": "2018-01-01",
+      "summary": "At HLK I developed websites and web applications for a wide range of clients. I also supported teams of developers, digital producers, and designers across multiple projects as a Technology Lead. As Tech Lead, I made planning and implementation decisions about technology, application design and architecture, tooling, and integration / code use across projects",
+      "highlights": [
+        "Designed and developed an API framework that reads data from any SQL database and automatically generates filterable, sortable REST endpoints with configurable resource- and role-based authenication",
+        "Implemented reusable cross-project solutions for complex user interfaces using Vue.js"
+      ],
+      "experience": [
+        "Git / Version Control",
+        "MySQL, MSSQL, MongoDB",
+        "PHP, Javascript",
+        "VueJS (Frontend JS Framework)",
+        "React (Frontend JS Framework)",
+        "Express (JS MVC Framework)",
+        "HTML, Css, Sass",
+        "Nginx, Apache",
+        "Vim, Atom",
+        "Photoshop, Illustrator, AdobeXD"
+      ]
+    },
+    {
       "company": "Response Marketing",
       "position": "Senior Developer",
       "website": "http://response.agency",
       "startDate": "2015-06-01",
       "endDate": "2016-08-08",
-      "summary": "At Response Marketing, I led the development of a custom platform for creating and maintaining complex marketing websites. Using the platform, I developed applications for numerous clients including Guess Watches, Intel Security / McAfee, Avi Networking, and REAN Cloud",
+      "summary": "At Response Marketing, I led the design and development of a custom platform for creating and maintaining complex marketing websites. Using the platform, I developed applications for numerous clients including Guess Watches, Intel Security / McAfee, Avi Networking, and REAN Cloud",
       "highlights": [
         "Built a JSON API-driven platform for creating, deploying, and maintaining highly customizable marketing websites quickly and easily",
         "Developed solutions for automating data collection and analysis for social media campaigns using Python (Pandas, NLTK, Matplotlib)",
@@ -124,7 +148,7 @@
     {
       "institution": "Washington University in St. Louis",
       "area": "Printmaking",
-      "studyType": "Bachelor",
+      "studyType": "BFA",
       "startDate": "2003-08-01",
       "endDate": "2007-05-30",
       "gpa": "3.5",
@@ -141,17 +165,13 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "MySQL, PostgreSQL, MongoDB",
-        "Python, PHP, Javascript",
+        "MySQL, PostgreSQL, MSSQL, MongoDB",
+        "Javascript, Python, PHP",
         "HTML, CSS, Sass, Less",
-        "Zurb Foundation, Twitter Bootstrap, Bourbon.io",
-        "Vue.js, AngularJS, jBackbone.js, Query",
+        "Vue.js, ReactJS, AngularJS",
         "Node.js",
-        "Flask (Python MVC Framework)",
-        "Laravel (PHP MVC Framework)",
-        "Express (JS)",
-        "Wordpress",
-        "Grunt/Gulp, Webpack/Browserify"
+        "ExpressJS",
+        "Gulp, Webpack"
       ]
     },
     {
@@ -160,9 +180,9 @@
       "keywords": [
         "Docker",
         "Ansible",
+        "CI/CD",
         "Bash / Shell Scripting",
         "Fabric",
-        "VirtualBox",
         "Vagrant",
         "Linux",
         "AWS"
