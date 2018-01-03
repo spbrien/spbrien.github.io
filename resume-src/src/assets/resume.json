@@ -31,7 +31,7 @@
       "website": "http://hlkagency.com",
       "startDate": "2016-06-01",
       "endDate": "2018-01-01",
-      "summary": "At HLK I've developed websites and web applications for a wide range of clients. I've also supported teams of developers, digital producers, and designers across multiple projects as a Technology Lead. As Tech Lead, I've made planning and implementation decisions about technology, application design and architecture, tooling, and integration / code use across projects",
+      "summary": "At HLK I've developed websites and web applications for a wide range of clients. I've also supported teams of developers, digital producers, and designers across multiple projects in the role of Technology Lead. As Tech Lead, I've made planning and implementation decisions about technical approach, application design and architecture, tooling, and integration / code use across projects",
       "highlights": [
         "Designed and developed an API framework that reads data from any SQL database and automatically generates filterable, sortable REST endpoints with configurable resource- and role-based authenication",
         "Implemented reusable cross-project solutions for complex user interfaces using Vue.js"
