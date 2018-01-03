@@ -9,8 +9,8 @@
         <p>
           {{data.label}}<br />
           {{data.website}}<br />
-          {{data.email}}<br />
-          {{data.phone}}<br />
+          <!-- {{data.email}}<br />
+          {{data.phone}}<br /> -->
         </p>
         </p>
       </div>
