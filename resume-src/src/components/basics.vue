@@ -7,10 +7,11 @@
       </div>
       <div class="columns small-12">
         <p>
-          {{data.label}}<br />
-          {{data.website}}<br />
-          <!-- {{data.email}}<br />
-          {{data.phone}}<br /> -->
+          {{data.label}}<br /><br />
+          <h3>Projects</h3>
+          <div v-for="website in data.websites">
+            <a :href="website.url">{{website.name}}</a>
+          </div>
         </p>
         </p>
       </div>
