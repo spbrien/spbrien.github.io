@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Steven Brien",
-    "label": "Web Developer / Architect",
+    "label": "Sr. Technology Lead",
     "email": "spbrien@gmail.com",
     "phone": "(314) 517-7358",
     "websites": [
@@ -38,7 +38,7 @@
   "work": [
     {
       "company": "HLK",
-      "position": "Technology Lead",
+      "position": "Senior Technology Lead",
       "website": "http://hlkagency.com",
       "startDate": "2016-06-01",
       "endDate": "2018-01-01",
@@ -50,7 +50,7 @@
       "experience": [
         "Git / Version Control",
         "MySQL, MSSQL, MongoDB",
-        "PHP, Javascript",
+        "PHP, Javascript, Python",
         "VueJS (Frontend JS Framework)",
         "React (Frontend JS Framework)",
         "Express (JS MVC Framework)",
