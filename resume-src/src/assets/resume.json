@@ -6,12 +6,8 @@
     "phone": "(314) 517-7358",
     "websites": [
       {
-        "name": "Github / OSS",
+        "name": "Github",
         "url": "http://github.com/spbrien"
-      },
-      {
-        "name": "Mir Framework",
-        "url": "http://python-mir.org"
       }
     ],
     "summary": "I'm a developer interested in creating intelligent and innovative applications for the internet. I learn complex subject matter very quickly, like to solve problems that require a wide range of skills and expertise, and enjoy designing and building systems from the ground up.",
@@ -41,7 +37,7 @@
       "position": "Senior Technology Lead",
       "website": "http://hlkagency.com",
       "startDate": "2016-06-01",
-      "endDate": "2018-01-01",
+      "endDate": "2020-11-02",
       "summary": "At HLK I've developed websites and web applications for a wide range of clients. I've also supported teams of developers, digital producers, and designers across multiple projects in the role of Technology Lead. As Tech Lead, I've made planning and implementation decisions about technical approach, application design and architecture, tooling, and integration / code use across projects",
       "highlights": [
         "Designed and developed an API framework that reads data from any SQL database and automatically generates filterable, sortable REST endpoints with configurable resource- and role-based authenication",
